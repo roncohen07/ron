@@ -5,5 +5,5 @@ def helloworld():
 helloworld()
 
 for element in range(0,9):
-    l1 = list(element)
-    print(l1)
+    l1 = []
+    print(element) in l1
