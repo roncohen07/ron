@@ -4,9 +4,6 @@ def helloworld():
 
 helloworld()
 
-list = []
 for element in range(0,9):
-    print(element) in list
-
-print(list)
-   
+    l1 = list(element, end="-")
+    print(l1)
